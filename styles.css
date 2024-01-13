@@ -1,0 +1,29 @@
+
+  h1 { font-family: "Brush Script MT", cursive; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; 
+  text-align: center;
+margin-bottom: 50px;
+font-size: 5rem;
+color: rgb(11, 11, 0); }
+
+
+
+
+body{
+  background-color: rgb(45, 153, 130);
+}
+.container{
+  display: inline-block;
+  margin-left: 30%;
+  width: 50%;
+
+}
+.game{
+  display: inline-block;
+  margin-top: 7%;
+  margin-left: 100px;
+  
+}
+h3{
+  font-family: 'Indie Flower', cursive;
+  font-size: xx-large;
+}
